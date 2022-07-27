@@ -1,0 +1,17 @@
+C:\Users\veron\PartyUsher\PartyUsher.Infrastructure\bin\Debug\net6.0\PartyUsher.Infrastructure.deps.json
+C:\Users\veron\PartyUsher\PartyUsher.Infrastructure\bin\Debug\net6.0\PartyUsher.Infrastructure.dll
+C:\Users\veron\PartyUsher\PartyUsher.Infrastructure\bin\Debug\net6.0\PartyUsher.Infrastructure.pdb
+C:\Users\veron\PartyUsher\PartyUsher.Infrastructure\obj\Debug\net6.0\PartyUsher.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\veron\PartyUsher\PartyUsher.Infrastructure\obj\Debug\net6.0\PartyUsher.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veron\PartyUsher\PartyUsher.Infrastructure\obj\Debug\net6.0\PartyUsher.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\veron\PartyUsher\PartyUsher.Infrastructure\obj\Debug\net6.0\PartyUsher.Infrastructure.AssemblyInfo.cs
+C:\Users\veron\PartyUsher\PartyUsher.Infrastructure\obj\Debug\net6.0\PartyUsher.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\veron\PartyUsher\PartyUsher.Infrastructure\obj\Debug\net6.0\PartyUsher.Infrastructure.dll
+C:\Users\veron\PartyUsher\PartyUsher.Infrastructure\obj\Debug\net6.0\refint\PartyUsher.Infrastructure.dll
+C:\Users\veron\PartyUsher\PartyUsher.Infrastructure\obj\Debug\net6.0\PartyUsher.Infrastructure.pdb
+C:\Users\veron\PartyUsher\PartyUsher.Infrastructure\obj\Debug\net6.0\ref\PartyUsher.Infrastructure.dll
+C:\Users\veron\PartyUsher\PartyUsher.Infrastructure\bin\Debug\net6.0\PartyUsher.Application.dll
+C:\Users\veron\PartyUsher\PartyUsher.Infrastructure\bin\Debug\net6.0\PartyUsher.Domain.dll
+C:\Users\veron\PartyUsher\PartyUsher.Infrastructure\bin\Debug\net6.0\PartyUsher.Application.pdb
+C:\Users\veron\PartyUsher\PartyUsher.Infrastructure\bin\Debug\net6.0\PartyUsher.Domain.pdb
+C:\Users\veron\PartyUsher\PartyUsher.Infrastructure\obj\Debug\net6.0\PartyUsher.Infrastructure.csproj.CopyComplete

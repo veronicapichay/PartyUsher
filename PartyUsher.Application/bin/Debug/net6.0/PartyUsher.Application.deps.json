@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PartyUsher.Application/1.0.0": {
+        "dependencies": {
+          "PartyUsher.Domain": "1.0.0"
+        },
+        "runtime": {
+          "PartyUsher.Application.dll": {}
+        }
+      },
+      "PartyUsher.Domain/1.0.0": {
+        "runtime": {
+          "PartyUsher.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PartyUsher.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PartyUsher.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

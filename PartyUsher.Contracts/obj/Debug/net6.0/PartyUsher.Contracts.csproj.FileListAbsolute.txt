@@ -1,0 +1,12 @@
+C:\Users\veron\PartyUsher\PartyUsher.Contracts\bin\Debug\net6.0\PartyUsher.Contracts.deps.json
+C:\Users\veron\PartyUsher\PartyUsher.Contracts\bin\Debug\net6.0\PartyUsher.Contracts.dll
+C:\Users\veron\PartyUsher\PartyUsher.Contracts\bin\Debug\net6.0\PartyUsher.Contracts.pdb
+C:\Users\veron\PartyUsher\PartyUsher.Contracts\obj\Debug\net6.0\PartyUsher.Contracts.csproj.AssemblyReference.cache
+C:\Users\veron\PartyUsher\PartyUsher.Contracts\obj\Debug\net6.0\PartyUsher.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veron\PartyUsher\PartyUsher.Contracts\obj\Debug\net6.0\PartyUsher.Contracts.AssemblyInfoInputs.cache
+C:\Users\veron\PartyUsher\PartyUsher.Contracts\obj\Debug\net6.0\PartyUsher.Contracts.AssemblyInfo.cs
+C:\Users\veron\PartyUsher\PartyUsher.Contracts\obj\Debug\net6.0\PartyUsher.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\veron\PartyUsher\PartyUsher.Contracts\obj\Debug\net6.0\PartyUsher.Contracts.dll
+C:\Users\veron\PartyUsher\PartyUsher.Contracts\obj\Debug\net6.0\refint\PartyUsher.Contracts.dll
+C:\Users\veron\PartyUsher\PartyUsher.Contracts\obj\Debug\net6.0\PartyUsher.Contracts.pdb
+C:\Users\veron\PartyUsher\PartyUsher.Contracts\obj\Debug\net6.0\ref\PartyUsher.Contracts.dll

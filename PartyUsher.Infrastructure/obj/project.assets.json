@@ -1,0 +1,113 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "PartyUsher.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "PartyUsher.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PartyUsher.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PartyUsher.Application.dll": {}
+        }
+      },
+      "PartyUsher.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/PartyUsher.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PartyUsher.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PartyUsher.Application/1.0.0": {
+      "type": "project",
+      "path": "../PartyUsher.Application/PartyUsher.Application.csproj",
+      "msbuildProject": "../PartyUsher.Application/PartyUsher.Application.csproj"
+    },
+    "PartyUsher.Domain/1.0.0": {
+      "type": "project",
+      "path": "../PartyUsher.Domain/PartyUsher.Domain.csproj",
+      "msbuildProject": "../PartyUsher.Domain/PartyUsher.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "PartyUsher.Application >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\veron\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\veron\\PartyUsher\\PartyUsher.Infrastructure\\PartyUsher.Infrastructure.csproj",
+      "projectName": "PartyUsher.Infrastructure",
+      "projectPath": "C:\\Users\\veron\\PartyUsher\\PartyUsher.Infrastructure\\PartyUsher.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\veron\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\veron\\PartyUsher\\PartyUsher.Infrastructure\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\veron\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\veron\\PartyUsher\\PartyUsher.Application\\PartyUsher.Application.csproj": {
+              "projectPath": "C:\\Users\\veron\\PartyUsher\\PartyUsher.Application\\PartyUsher.Application.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

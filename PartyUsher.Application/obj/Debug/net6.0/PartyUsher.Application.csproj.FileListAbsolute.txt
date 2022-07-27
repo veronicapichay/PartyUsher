@@ -1,0 +1,15 @@
+C:\Users\veron\PartyUsher\PartyUsher.Application\bin\Debug\net6.0\PartyUsher.Application.deps.json
+C:\Users\veron\PartyUsher\PartyUsher.Application\bin\Debug\net6.0\PartyUsher.Application.dll
+C:\Users\veron\PartyUsher\PartyUsher.Application\bin\Debug\net6.0\PartyUsher.Application.pdb
+C:\Users\veron\PartyUsher\PartyUsher.Application\obj\Debug\net6.0\PartyUsher.Application.csproj.AssemblyReference.cache
+C:\Users\veron\PartyUsher\PartyUsher.Application\obj\Debug\net6.0\PartyUsher.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veron\PartyUsher\PartyUsher.Application\obj\Debug\net6.0\PartyUsher.Application.AssemblyInfoInputs.cache
+C:\Users\veron\PartyUsher\PartyUsher.Application\obj\Debug\net6.0\PartyUsher.Application.AssemblyInfo.cs
+C:\Users\veron\PartyUsher\PartyUsher.Application\obj\Debug\net6.0\PartyUsher.Application.csproj.CoreCompileInputs.cache
+C:\Users\veron\PartyUsher\PartyUsher.Application\obj\Debug\net6.0\PartyUsher.Application.dll
+C:\Users\veron\PartyUsher\PartyUsher.Application\obj\Debug\net6.0\refint\PartyUsher.Application.dll
+C:\Users\veron\PartyUsher\PartyUsher.Application\obj\Debug\net6.0\PartyUsher.Application.pdb
+C:\Users\veron\PartyUsher\PartyUsher.Application\obj\Debug\net6.0\ref\PartyUsher.Application.dll
+C:\Users\veron\PartyUsher\PartyUsher.Application\bin\Debug\net6.0\PartyUsher.Domain.dll
+C:\Users\veron\PartyUsher\PartyUsher.Application\bin\Debug\net6.0\PartyUsher.Domain.pdb
+C:\Users\veron\PartyUsher\PartyUsher.Application\obj\Debug\net6.0\PartyUsher.Application.csproj.CopyComplete
