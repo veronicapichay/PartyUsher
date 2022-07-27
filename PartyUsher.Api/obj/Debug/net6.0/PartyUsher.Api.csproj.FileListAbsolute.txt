@@ -5,16 +5,11 @@ C:\Users\veron\PartyUsher\PartyUsher.Api\bin\Debug\net6.0\PartyUsher.Api.deps.js
 C:\Users\veron\PartyUsher\PartyUsher.Api\bin\Debug\net6.0\PartyUsher.Api.runtimeconfig.json
 C:\Users\veron\PartyUsher\PartyUsher.Api\bin\Debug\net6.0\PartyUsher.Api.dll
 C:\Users\veron\PartyUsher\PartyUsher.Api\bin\Debug\net6.0\PartyUsher.Api.pdb
-C:\Users\veron\PartyUsher\PartyUsher.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
-C:\Users\veron\PartyUsher\PartyUsher.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\veron\PartyUsher\PartyUsher.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\veron\PartyUsher\PartyUsher.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\veron\PartyUsher\PartyUsher.Api\obj\Debug\net6.0\PartyUsher.Api.csproj.AssemblyReference.cache
 C:\Users\veron\PartyUsher\PartyUsher.Api\obj\Debug\net6.0\PartyUsher.Api.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\veron\PartyUsher\PartyUsher.Api\obj\Debug\net6.0\PartyUsher.Api.AssemblyInfoInputs.cache
 C:\Users\veron\PartyUsher\PartyUsher.Api\obj\Debug\net6.0\PartyUsher.Api.AssemblyInfo.cs
 C:\Users\veron\PartyUsher\PartyUsher.Api\obj\Debug\net6.0\PartyUsher.Api.csproj.CoreCompileInputs.cache
-C:\Users\veron\PartyUsher\PartyUsher.Api\obj\Debug\net6.0\PartyUsher.Api.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\veron\PartyUsher\PartyUsher.Api\obj\Debug\net6.0\PartyUsher.Api.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\veron\PartyUsher\PartyUsher.Api\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\veron\PartyUsher\PartyUsher.Api\obj\Debug\net6.0\staticwebassets.development.json

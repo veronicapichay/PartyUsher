@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2fczBV03XR6Gb7a1WJ7pJT4LuM0xjxSa+GlNpH6XNS2Imo7C8OBVkXR5S1CXuCVAybQSEQiWKw9w2zrrP0KIww==",
+  "dgSpecHash": "czaue3OAGkmK+38deCxI3QR4rGHtrFt9qbEf1vcVbgHSf9PzQMDvukaxzM7swL6LdOO9vTFR1890BTD2HQEO7Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\veron\\PartyUsher\\PartyUsher.Api\\PartyUsher.Api.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\veron\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
-    "C:\\Users\\veron\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
-    "C:\\Users\\veron\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
-    "C:\\Users\\veron\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
-    "C:\\Users\\veron\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
-    "C:\\Users\\veron\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
