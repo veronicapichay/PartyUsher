@@ -1,6 +1,7 @@
 namespace PartyUsher.Contracts.Authentication;
 
 public record AuthenticationResponse(
+    
     Guid Id,
     string FirstName,
     string LastName,

@@ -1,0 +1,11 @@
+POST https://localhost:7256/auth/register
+//define where we sending the json request
+Content-Type: application/json 
+
+{
+
+    "firstName": "Paco",
+    "lastName": "Romero",
+    "email": "pacoromero@yahoo.com",
+    "password": "Kamikaze123!"
+}

@@ -1,0 +1,8 @@
+POST https://localhost:7256/auth/login
+//define where we sending the json request
+Content-Type: application/json 
+
+{
+    "email": "pacoromero@yahoo.com",
+    "password": "Kamikaze123!"
+}

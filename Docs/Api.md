@@ -24,11 +24,6 @@ POST {{host}}/auth/register
 
 ```json
 
-
-
-
-
-
 #### Login Response
 
 ```json 
