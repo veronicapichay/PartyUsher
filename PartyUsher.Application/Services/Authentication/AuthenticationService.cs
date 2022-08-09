@@ -4,7 +4,7 @@ public class AuthenticationService : IAuthenticationService
 {
 
 
-    public AuthenticationResult Login(string firstName, string lastName, string email, string password)
+    public AuthenticationResult Register(string firstName, string lastName, string email, string password)
     {
         return new AuthenticationResult(
             Guid.NewGuid(),
@@ -15,7 +15,7 @@ public class AuthenticationService : IAuthenticationService
 
     }
 
-    public AuthenticationResult Register(string email, string password)
+    public AuthenticationResult Login(string email, string password)
     {
         return new AuthenticationResult(
             Guid.NewGuid(),
