@@ -3,9 +3,9 @@ namespace PartyUsher.Application.Services.Authentication;
 public interface IAuthenticationService
 {
 
-    AuthenticationResponse Login(LoginRequest request);
+    AuthenticationResult Login(string firstName, string lastName, string email, string password);
 
-    AuthenticationResponse Register(RegisterRequest request);
+    AuthenticationResult Register(string email, string password);
 
 
 
