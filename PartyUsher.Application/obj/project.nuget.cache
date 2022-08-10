@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Pk/uDuUic1NOW47EzN1bpm2aA4t+dUC2+jvd0OBZt/dshzTsX+7CZFihTIgwwLVRm33wDbWbTGP7Krazc1wVXg==",
+  "dgSpecHash": "nvwUMK/+PqmpKL0yw4Q+Bs7XJXv/1d3oZ0ezy7UEEBh8okqks5LmDGfWzsXdBr92ORTeoV4LMHDe6rlhHD10ow==",
   "success": true,
   "projectFilePath": "C:\\Users\\veron\\PartyUsher\\PartyUsher.Application\\PartyUsher.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\veron\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
