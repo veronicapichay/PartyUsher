@@ -1,4 +1,4 @@
-namespace PartyUsher.Application.Common.Interfaces.Authentication
+namespace PartyUsher.Application.Common.Interfaces.Authentication;
 
 public interface IJwtTokenGenerator
 {
