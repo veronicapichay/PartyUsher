@@ -1,5 +1,5 @@
 using PartyUsher.Application;
-//using PartyUsher.Infrastructure;
+using PartyUsher.Infrastructure;
 
 
 var builder = WebApplication.CreateBuilder(args);
@@ -8,7 +8,7 @@ var builder = WebApplication.CreateBuilder(args);
         .AddApplication()
         .AddInfrastructure();
 
-        
+
     builder.Services.AddControllers(); //use it for configuration and dependency injection 
 
 }
